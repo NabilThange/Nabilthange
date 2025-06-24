@@ -51,9 +51,9 @@ const nabil = {
 
 [![NbAIl](https://img.shields.io/badge/🤖_NbAIl-AI_Assistant-blue?style=for-the-badge)](https://nbail-v4.vercel.app/)
 
-### 🎵 [Musty Music Platform](https://musty-mu.vercel.app/)
-> **Next-Gen Music Streaming Experience** 🎶  
-> Modern music platform with social features
+### 🎵 [Musty - AI Study Companion](https://musty-mu.vercel.app/)
+> **Next-Gen Study Experience** 🎶  
+> Modern Study platform with AI features
 
 [![Musty](https://img.shields.io/badge/🎵_Musty-Music_Platform-purple?style=for-the-badge)](https://musty-mu.vercel.app/)
 
