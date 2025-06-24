@@ -55,7 +55,7 @@ const nabil = {
 > **Next-Gen Study Experience** 🎶  
 > Modern Study platform with AI features
 
-[![Musty](https://img.shields.io/badge/🎵_Musty-Music_Platform-purple?style=for-the-badge)](https://musty-mu.vercel.app/)
+[![Musty](https://img.shields.io/badge/🎵_Musty-AIStdy-Buddy-purple?style=for-the-badge)](https://musty-mu.vercel.app/)
 
 </div>
 
