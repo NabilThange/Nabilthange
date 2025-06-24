@@ -39,26 +39,32 @@ const nabil = {
 
 <div align="center">
 
-### 🍎 [NutriSnap AI](https://nutrisnapp-ai.vercel.app)
+### 1. ✨ [Gitskinz](https://gitskinz.netlify.app/)
+> **Custom GitHub Profile Generator** ✨  
+> Pick from multiple templates, preview instantly, and personalize your developer profile like never before.
+
+
+[![Built with Gitskinz](https://img.shields.io/badge/Built%20with-Gitskinz-brightgreen?style=for-the-badge)](https://gitskinz.netlify.app/)
+
+### 2. 🍎 [NutriSnap AI](https://nutrisnapp-ai.vercel.app)
 > **Smart Nutrition Tracking with AI** 🤖  
 > Advanced food recognition and nutritional analysis platform
 
 [![NutriSnap](https://img.shields.io/badge/🍎_NutriSnap-AI_Powered-success?style=for-the-badge)](https://nutrisnapp-ai.vercel.app)
 
-### 🤖 [NbAIl Assistant](https://nbail-v4.vercel.app/)
+### 3. 🤖 [NbAIl Assistant](https://nbail-v4.vercel.app/)
 > **Personal AI Assistant Platform** 🧠  
 > Intelligent conversational AI with advanced capabilities
 
 [![NbAIl](https://img.shields.io/badge/🤖_NbAIl-AI_Assistant-blue?style=for-the-badge)](https://nbail-v4.vercel.app/)
 
-### 🎵 [Musty - AI Study Companion](https://musty-mu.vercel.app/)
+### 4. 🎵 [Musty - AI Study Companion](https://musty-mu.vercel.app/)
 > **Next-Gen Study Experience** 🎶  
 > Modern Study platform with AI features
 
 [![Musty](https://img.shields.io/badge/🎵_Musty-AI_Study-purple?style=for-the-badge)](https://musty-mu.vercel.app/)
 
 </div>
-
 ---
 
 ## 🛠️ Tech Arsenal
